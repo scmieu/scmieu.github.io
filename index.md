@@ -14,9 +14,11 @@ This site is under construction and will be released soon.
 SCMI GmbH\
 Feldmühleplatz 15\
 40545 Düsseldorf\
-Germany\
+Germany
 
 ***
 
 ## Imprint
+
+***
 
